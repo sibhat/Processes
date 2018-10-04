@@ -1,0 +1,2 @@
+the value in child (45344) program is 0
+the value in parent (45343) program and child ( 45344 )
